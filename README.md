@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Aditi Singh</h1>
-<h3 align="center">3rd year AI/ML grad</h3>
+<h3 align="center"> AI/ML grad</h3>
 
 - 📫 How to reach me **3657aditisingh@gmail.com**
 
