@@ -1,7 +1,31 @@
-<h1 align="center">Hello, I'm Aditi Singh</h1>
+<h1 align="center"> I'm Aditi Singh</h1>
 <h3 align="center"> AI/ML grad</h3>
 
 - 📫 How to reach me **3657aditisingh@gmail.com**
+
+I'm a passionate **Data Scientist** with a strong background in **AI**, **Machine Learning**, and **Natural Language Processing (NLP)**. I enjoy solving complex problems, building innovative solutions, and continuously learning new technologies. 
+
+## About Me
+- 🔭 I’m currently working on improving my skills in **Machine Learning**, **Deep Learning**, and **NLP**.
+- 🌱 I’m actively learning about **multilingual models**, **data science techniques**, and **AI architectures**.
+- 👯 I’m looking to collaborate on projects that push the boundaries of AI and its real-world applications.
+- 💬 Ask me about **data science**, **AI development**, **chatbots**, or **NLP** – I’m always happy to discuss!
+
+## Skills & Technologies
+- **Languages:** Python, SQL
+- **Libraries & Frameworks:** Pandas, NumPy, TensorFlow, PyTorch, Hugging Face, LangChain, Rasa
+- **Tools & Platforms:** Jupyter, VS Code, Streamlit, Gradio, FAISS, Milvus, PostgreSQL
+- **AI/ML Techniques:** Deep Learning, Semantic Matching, Text Classification, NLP, Embeddings, LSTM
+
+## Projects
+- **[AI Chatbot for Network Data](#):** A chatbot that provides answers based on network data using FAISS vectors and embedding techniques for fast retrieval.
+- **[Crime Classification System](#):** A custom multilingual BERT model to classify crime descriptions into fraud categories with semantic matching and LSTM reranking.
+- **[Symptom Troubleshooting System](#):** A hybrid search system using BM25 + embeddings to match customer symptoms with troubleshooting manual sections.
+
+## Achievements
+- 🏆 **IndiaAI CyberGuard Hackathon**: Led a team to build a fraud classification system with a custom mBERT model.
+- 🌍 Enthusiastic about working on **real-world AI applications** and **collaborative learning**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
