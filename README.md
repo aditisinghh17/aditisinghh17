@@ -20,7 +20,6 @@ I'm a passionate **Data Scientist** with a strong background in **AI**, **Machin
 ## Projects
 - **[AI Chatbot for Network Data](#):** A chatbot that provides answers based on network data using FAISS vectors and embedding techniques for fast retrieval.
 - **[Crime Classification System](#):** A custom multilingual BERT model to classify crime descriptions into fraud categories with semantic matching and LSTM reranking.
-- **[Symptom Troubleshooting System](#):** A hybrid search system using BM25 + embeddings to match customer symptoms with troubleshooting manual sections.
 
 ## Achievements
 - 🏆 **IndiaAI CyberGuard Hackathon**: Led a team to build a fraud classification system with a custom mBERT model.
